@@ -363,6 +363,3 @@ Instead of forcing the store owner to select predefined commands, the system all
 The AI interprets the user's request, selects the appropriate operation, executes the backend tool, accesses the real database when required, and produces a natural-language response.
 
 
-
-B.E. Computer Science and Engineering
-Coimbatore Institute of Technology
